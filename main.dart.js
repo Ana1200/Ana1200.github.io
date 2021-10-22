@@ -53182,7 +53182,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.At.prototype={
 N(a,b){var s,r=null,q=t.E,p=A.pM(r,A.a4H(A.a([new A.z6(1,B.h3,A.a7z(A.a([A.pM(r,B.H2,r,r,r,B.x8,r),A.a9o("Bogota, Colombia",A.nZ(r,r,B.V.i(0,500),r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.dT,B.eE,B.d9),r),A.a3Y(B.xy,B.eF.i(0,500)),B.H1],q),B.cy,B.eE,B.d9),r,r,r,B.h0,r),o=A.be(b).b,n=A.a4H(A.a([this.re(o,B.xt,"LLAMAR"),this.re(o,B.xv,"ROUTE"),this.re(o,B.xx,"COMPARTIR")],q),B.cy,B.B3,B.d9)
-q=A.a([new A.qz(A.aj7(r,r,new A.pq("../images/ana.jpeg",r,r)),300,350,B.to,r),p,n,B.BQ],q)
+q=A.a([new A.qz(A.aj7(r,r,new A.pq("ana.jpeg",r,r)),300,350,B.to,r),p,n,B.BQ],q)
 s=A.aO([null,0],t.st,t.S)
 return new A.r5(new A.td(new A.pn(B.H_,new A.Hv(r,r,1/0,56),r),new A.A6(new A.Wn(!0,!0,!0,q,s),r,B.aO,!1,r,!0,B.t_,!1,r,4,B.aV,B.Ci,r,B.ac,r),r),"UNA DEMOSTRACI\xd3N M\xc1S DEL BELLO TALENTO",r)},
 re(a,b,c){var s=null
